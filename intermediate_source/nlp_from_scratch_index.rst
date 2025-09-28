@@ -3,7 +3,7 @@ NLP from Scratch
 
 In these three-part series you will build and train
 a basic character-level Recurrent Neural Network (RNN) to classify words.
-이 세 부분으로 구성된 시리즈에서는 단어를 분류하기 위해 문자 단위 순환 신경망(RNN)을 직접 구현하고 학습합니다. 
+이 세 부분으로 구성된 시리즈에서는 단어를 분류하기 위한 문자 단위 순환 신경망(RNN)을 직접 만들고 학습합니다. 
 
 You will learn:
 다음 내용을 다룹니다.
